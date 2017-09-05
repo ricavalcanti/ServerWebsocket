@@ -1,0 +1,21 @@
+{
+  "name": "socket-test",
+  "version": "0.0.1",
+  "description": "Socket server for tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guigaoliveira/socket-test.git"
+  },
+  "author": "Guilherme Oliveira",
+  "bugs": {
+    "url": "https://github.com/guigaoliveira/socket-test/issues"
+  },
+  "homepage": "https://github.com/guigaoliveira/socket-test#readme",
+  "dependencies": {
+    "socket.io": "^2.0.3"
+  }
+}
